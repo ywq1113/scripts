@@ -14,12 +14,12 @@ EOF
 read -p "please enter your choice:" option
 case $option in
   1)
-    cp /home/wanggc/ywq/scripts/opt INCAR
+    cp /home/ywq/scripts/opt INCAR
      read -p "do you need pbsjob and KPOINTS file(YES/NO):" option2
       case $option2 in
        YES)
-        cp /home/wanggc/ywq/scripts/pbsjob pbsjob
-        cp /home/wanggc/ywq/scripts/KPOINTS KPOINTS
+        cp /home/ywq/scripts/pbsjob pbsjob
+        cp /home/ywq/scripts/KPOINTS KPOINTS
         echo "KPOINTS: 3 3 1, pbsjob: 1 nodes 20 np"
        ;;
        NO)
@@ -28,13 +28,13 @@ case $option in
       esac
    ;;
   2)
-    cp /home/wanggc/ywq/scripts/neb INCAR
+    cp /home/ywq/scripts/neb INCAR
    ;;
   3)
-    cp /home/wanggc/ywq/scripts/opt+U INCAR
+    cp /home/ywq/scripts/opt+U INCAR
    ;;
   4)
-    echo "You could edit your own INCAR file in this path:/home/wanggc/ywq/scripts/"
+    echo "You could edit your own INCAR file in this path:/home/ywq/scripts/"
    ;;
   5)
     echo "Good luck"
