@@ -23,10 +23,6 @@ Cu   H   Pt\n \
 Cart\n") >300
 }
 {print $3, $4, $5 >300}' 300.vasp
-#tail -351 dump400.custom >400.vasp
-#awk '{print $3, $4, $5 >400}' 400.vasp
-#tail -351 dump500.custom >500.vasp
-#awk '{print $3, $4, $5 >500}' 500.vasp
 rm 300.vasp
 mv 300 $T.vasp
 #fi
