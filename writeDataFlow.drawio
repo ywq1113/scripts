@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T08:46:37.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="BpZAvz8Tf7icC4v8qcKm" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-21T08:49:54.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="PINkNAe5VD1REZHLd1Ex" version="13.6.9" type="github">
   <diagram id="E2nFt691-1SjJ5yyAMJj" name="Page-1">
     <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,10 +13,10 @@
         <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="Nm6nq1tZ8u3NcJGHzh8Y-1" target="Nm6nq1tZ8u3NcJGHzh8Y-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-1" value="Clients" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-1" value="&lt;b&gt;Clients&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-2" value="Master" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-2" value="&lt;b&gt;Master&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-4" value="1. Req" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -38,10 +38,10 @@
         <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-8" value="2. Primary unreachable or&lt;br&gt;replies no longer holds lease" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="30" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-9" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nm6nq1tZ8u3NcJGHzh8Y-1">
+        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-9" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="195" y="250" as="sourcePoint" />
-            <mxPoint x="220" y="220" as="targetPoint" />
+            <mxPoint x="220" y="162" as="sourcePoint" />
+            <mxPoint x="220" y="222" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -49,8 +49,8 @@
         </mxCell>
         <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-14" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="284" as="sourcePoint" />
-            <mxPoint x="220" y="344" as="targetPoint" />
+            <mxPoint x="220" y="286" as="sourcePoint" />
+            <mxPoint x="220" y="346" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -58,8 +58,8 @@
         </mxCell>
         <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-16" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="408" as="sourcePoint" />
-            <mxPoint x="220" y="468" as="targetPoint" />
+            <mxPoint x="220" y="410" as="sourcePoint" />
+            <mxPoint x="220" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -68,13 +68,13 @@
         <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-18" value="LRU Buffer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="239" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-19" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Secondary&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Replica A&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-19" value="&lt;b&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Secondary&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Replica A&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="212" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-20" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Primary&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Replica&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-20" value="&lt;b&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Primary&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Replica&amp;nbsp;&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="358" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-21" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Secondary&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Replica B&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-21" value="&lt;b&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Secondary&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Replica B&lt;/span&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-22" value="LRU Buffer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -163,6 +163,24 @@
         </mxCell>
         <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-40" value="7. Reply" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="190" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="210" as="sourcePoint" />
+            <mxPoint x="530" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-42" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="239" as="sourcePoint" />
+            <mxPoint x="530" y="239" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-43" value="&lt;b&gt;Control&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="200" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-44" value="&lt;b&gt;Data&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="229" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
