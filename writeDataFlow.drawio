@@ -1,1 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T08:10:22.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" version="13.6.9" etag="1dA3aoyzztUF0JXtO_0L" type="github"><diagram id="E2nFt691-1SjJ5yyAMJj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-21T08:17:55.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="lddpkpHgVzt7M0aTnuFY" version="13.6.9" type="github">
+  <diagram id="E2nFt691-1SjJ5yyAMJj" name="Page-1">
+    <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="140" as="sourcePoint" />
+            <mxPoint x="280" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="1" source="Nm6nq1tZ8u3NcJGHzh8Y-1" target="Nm6nq1tZ8u3NcJGHzh8Y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-1" value="Clients" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-2" value="Master" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-4" value="Req" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="110" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-6" value="&amp;nbsp;Resp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-7" value="" style="endArrow=classic;html=1;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Nm6nq1tZ8u3NcJGHzh8Y-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="100" as="sourcePoint" />
+            <mxPoint x="420" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="60" />
+              <mxPoint x="420" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-8" value="Primary unreachable or&lt;br&gt;replies no longer holds lease" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="30" width="160" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
