@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T12:49:00.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="UsrL-mCccT2gbBmny_S4" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-21T12:54:04.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="MUmwzxqhwwqvkkdY0nV7" version="13.6.9" type="github">
   <diagram id="EUx6PkftY0XtWaCeIMCY" name="Page-1">
     <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,9 +54,9 @@
         <mxCell id="G5WoTNLx7Llr0JP6u_pU-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G5WoTNLx7Llr0JP6u_pU-14" target="G5WoTNLx7Llr0JP6u_pU-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="560" as="sourcePoint" />
-            <mxPoint x="400" y="870" as="targetPoint" />
+            <mxPoint x="326" y="840" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="460" y="815" />
+              <mxPoint x="460" y="915" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -74,24 +74,34 @@
         </mxCell>
         <mxCell id="G5WoTNLx7Llr0JP6u_pU-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="700" as="sourcePoint" />
-            <mxPoint x="279.58" y="770" as="targetPoint" />
+            <mxPoint x="280" y="695" as="sourcePoint" />
+            <mxPoint x="280" y="750" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="280.08" y="735" />
+              <mxPoint x="280.08" y="730" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="G5WoTNLx7Llr0JP6u_pU-20" value="&lt;font style=&quot;font-size: 15px&quot;&gt;1. 同一个 chunk 副本可能包含不同的数据&lt;br&gt;&lt;br&gt;2. GFS 不保证所有副本具有相同的字节&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="207.5" y="605" width="145" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="G5WoTNLx7Llr0JP6u_pU-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="G5WoTNLx7Llr0JP6u_pU-23" target="G5WoTNLx7Llr0JP6u_pU-27">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="G5WoTNLx7Llr0JP6u_pU-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" target="G5WoTNLx7Llr0JP6u_pU-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="962" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="G5WoTNLx7Llr0JP6u_pU-23" value="&lt;font style=&quot;font-size: 15px&quot;&gt;成功追加的&lt;br&gt;数据defined；&lt;br&gt;中间区域是&lt;br&gt;inconsistent&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="780" width="100" height="70" as="geometry" />
+          <mxGeometry x="234" y="880" width="92.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="G5WoTNLx7Llr0JP6u_pU-27" value="&lt;font style=&quot;font-size: 15px&quot;&gt;由应用层checksum + id&lt;br&gt;实现一致性&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="900" width="120" height="80" as="geometry" />
+          <mxGeometry x="220" y="1002" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G5WoTNLx7Llr0JP6u_pU-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="G5WoTNLx7Llr0JP6u_pU-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G5WoTNLx7Llr0JP6u_pU-29" value="&lt;font style=&quot;font-size: 15px&quot;&gt;重试，保证偏移量一致&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="750" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
