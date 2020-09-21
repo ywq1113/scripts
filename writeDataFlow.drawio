@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-21T08:23:05.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="2c56F0agCPettG_XIDX8" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-21T08:23:30.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="M1oKLvtcjWywD8YL1-9r" version="13.6.9" type="github">
   <diagram id="E2nFt691-1SjJ5yyAMJj" name="Page-1">
     <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
           <mxGeometry x="160" y="472" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-18" value="LRU Buffer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="239" width="70" height="30" as="geometry" />
+          <mxGeometry x="185" y="239" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-19" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Secondary&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Replica A&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="239" width="80" height="40" as="geometry" />
@@ -78,10 +78,10 @@
           <mxGeometry x="290" y="482" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-22" value="LRU Buffer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="358" width="70" height="30" as="geometry" />
+          <mxGeometry x="185" y="363" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nm6nq1tZ8u3NcJGHzh8Y-23" value="LRU Buffer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="482" width="70" height="30" as="geometry" />
+          <mxGeometry x="185" y="487" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
